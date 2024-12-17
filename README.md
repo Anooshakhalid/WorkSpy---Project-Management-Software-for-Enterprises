@@ -82,10 +82,17 @@
 - `GET /projects`: List all projects.  
 - `POST /projects`: Create a new project.  
 - `PUT /projects/:id`: Update a project.  
-- `DELETE /projects/:id`: Delete a project.  
+- `DELETE /projects/:id`: Delete a project.
 
 ### **Reports**  
 
 - `GET /reports`: Fetch task, timesheet, and approval data for charts.  
 
 ---
+
+ ## Screenshorts
+
+ - Index page
+ - ![Screenshot 2024-11-28 203917](https://github.com/user-attachments/assets/b90f37ad-5330-442f-8590-407351344ba0)
+
+
